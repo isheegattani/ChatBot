@@ -1,4 +1,4 @@
-# COVID 19 AWARENESS -ChatBot named CHATTY
+# ChatBot for COVID 19 AWARENESS 
 First extract the files from folder ChatBot1.
 The main files of the project is chatbot.py and data.txt.
 The project can be executed by running the chatbot.py file in the folder Chatbot1.
