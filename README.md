@@ -9,3 +9,5 @@ the proper execution of code without any error using the pip install command on 
 
 you can also check the google drive link
 https://drive.google.com/file/d/1gEJE_d_4cIVbCodY3LE4Tx_07mNTuPGQ/view
+and yotube link
+https://www.youtube.com/watch?v=oxgBT8kzKVU&t=1s
